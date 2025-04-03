@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# 站點地圖位置
+Sitemap: https://example.com/sitemap.xml
